@@ -1,9 +1,11 @@
-:root {
-    --primary: rgb(15, 63, 15);
-    --secondary: #3aff8f00;
-    --light: #fefee3;
-    --accent: #d68c45;
-    --dark: #2f3e46;
+@media only screen and (max-width = auto) {
+    
+    :root {
+        --primary: rgb(15, 63, 15);
+        --secondary: #3aff8f00;
+        --light: #fefee3;
+        --accent: #d68c45;
+        --dark: #2f3e46;
 }
 
 * {
@@ -388,4 +390,5 @@ textarea {
     .hero p {
         font-size: 1rem;
     }
+}
 }
