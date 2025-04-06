@@ -374,6 +374,40 @@ textarea {
     margin: auto; 
     padding: 50px;
 }
+.faq h2 {
+    text-align: center;
+    font-size: 48px;
+    color: black;
+}
+
+.faq {
+    background: #ffffff;
+    color: white;
+    display:block;
+    max-width: 100vw;
+    margin: auto;
+}
+
+.faqbox:hover {
+    background-color: #414141;
+    color: white;
+}
+
+.faqbox svg {
+    filter: invert(1);
+}
+
+.faqbox {
+    transition: all 1s ease-out;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2d2d2d;
+    padding: 24px;
+    max-width: 60vw;
+    margin: 34px auto;
+    cursor: pointer;
+}
 
 
 @media (max-width: 768px) {
@@ -389,4 +423,3 @@ textarea {
         font-size: 1rem;
     }
 }
-@media only screen and (min-width = 10px) {}
