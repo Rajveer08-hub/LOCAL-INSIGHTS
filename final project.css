@@ -430,7 +430,7 @@ textarea {
 
 }
 
-@media screen and (min-width:3000px) {
+@media screen and (width<3000px) {
     .logo {
         font-size: 15px;
         margin: 0px 129px;
@@ -440,7 +440,7 @@ textarea {
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
-        margin: 0px 0px;
+        margin: 0px -20px;
         padding: 5px 5px;
     }
 
@@ -475,7 +475,7 @@ textarea {
 
 }
 
-/* @media screen and (max-width:1500px) {
+@media screen and (width>1500px) {
     .logo {
         font-size: 15px;
         margin: 0px 129px;
@@ -518,4 +518,4 @@ textarea {
         margin-bottom: 6px;
     }
 
-} */
+}
