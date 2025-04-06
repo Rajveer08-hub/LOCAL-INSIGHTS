@@ -1,6 +1,5 @@
 @media only screen and (max-width = auto) {
-    
-    :root {
+:root {
         --primary: rgb(15, 63, 15);
         --secondary: #3aff8f00;
         --light: #fefee3;
