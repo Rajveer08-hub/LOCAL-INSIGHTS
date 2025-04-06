@@ -473,7 +473,7 @@ textarea {
 
 }
 
-/* @media screen and (max-width:1500px) {
+@media screen and (max-width:1500px) {
     .logo {
         font-size: 15px;
         margin: 0px 129px;
@@ -516,4 +516,4 @@ textarea {
         margin-bottom: 6px;
     }
 
-} */
+}
