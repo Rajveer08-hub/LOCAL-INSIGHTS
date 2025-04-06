@@ -440,7 +440,7 @@ textarea {
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
-        margin: 0px -5px;
+        margin: 0px 0px;
         padding: 5px 5px;
     }
 
