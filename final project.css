@@ -424,7 +424,7 @@ textarea {
         font-size: 1rem;
     }
 }
-@media screen and (max-width:1500px ) {
+@media screen and (max-width:2532px) {
     .logo {
         font-size: 15px;
         margin: 0px 129px;
