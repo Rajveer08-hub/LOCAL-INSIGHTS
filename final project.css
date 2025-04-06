@@ -1,4 +1,4 @@
-@media only screen and (max-width = auto) {
+@media only screen and (min-width = 10px) {
 :root {
         --primary: rgb(15, 63, 15);
         --secondary: #3aff8f00;
