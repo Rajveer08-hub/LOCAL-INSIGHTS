@@ -498,7 +498,7 @@ textarea {
         
         padding: 10px 10px;
         height: 60vw;
-        
+        max-width: 100vw;
     }
     .hero h1 {
         font-size: 18px;
